@@ -10,7 +10,7 @@
 #include <getopt.h>
 #include <string.h>
 #include "util/dbg.h"
-#include <csv.h>
+#include "util/csv.h"
 #define NUL_REPLACEMENT_CHARACTER 63   // This is a '?'
 #define NL_REPLACEMENT_CHARACTER 32   // This is a Space
 
