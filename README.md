@@ -20,11 +20,11 @@ More than one FILE can be specified.
 
 ## Building csvflat
 
-The following projects have made `csvflat` possible:
+The following project has made `csvflat` possible:
 
 - [libcsv](https://github.com/rgamble/libcsv) - Version 3.0.3 of `libcsv` is included with `csvflat`.
 
-Please consider contributing to those projects if you find `csvflat` useful.
+Please consider contributing to libcsv if you find `csvflat` useful.
 
 Note that this git repository does not include a `configure` script like a 
 distribution tarball normally does.  If you don't want to bother with 
